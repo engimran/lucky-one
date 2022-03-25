@@ -1,0 +1,56 @@
+[
+    {
+        "id": "1",
+        "name": "Mouse classic",
+        "pic": "images/Image (1).jpg",
+        "price": 578
+    },
+    {
+        "id": "2",
+        "name": "Mouse standard",
+        "picture": "images/Image (2).jpg",
+        "price": 1492
+    },
+    {
+        "id": "3",
+        "name": "Mouse Normal",
+        "picture": "images/Image (3).jpg",
+        "price": 584
+    },
+    {
+        "id": "4",
+        "name": "Mouse classic",
+        "picture": "images/Image (4).jpg",
+        "price": 1326
+    },
+    {
+        "id": "5",
+        "name": "Mouse",
+        "picture": "images/Image (5).jpg",
+        "price": 504
+    },
+    {
+        "id": "6",
+        "name": "Mouse Normal",
+        "picture": "images/Image (6).jpg",
+        "price": 1067
+    },
+    {
+        "id": "7",
+        "name": "Mouse",
+        "picture": "images/Image (7).jpg",
+        "price": 1191
+    },
+    {
+        "id": "8",
+        "name": "Mouse Normal",
+        "picture": "images/Image (8).jpg",
+        "price": 1067
+    },
+    {
+        "id": "9",
+        "name": "Mouse Normal",
+        "picture": "images/Image (9).jpg",
+        "price": 1067
+    }
+]
