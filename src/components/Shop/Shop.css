@@ -5,7 +5,8 @@
 .products-container{
     display: grid;
     grid-template-columns: repeat(3, 1fr);
-    gap: 30px;
+    gap: 15px;
+    
 
 }
 .cart-container {
@@ -13,4 +14,21 @@ margin-left: 20px;
 border: 2px solid yellowgreen;
 border-radius: 10px;
 text-align: center;
+}
+.btn-select{
+    background-color: aquamarine;
+    font-weight: bold;
+    margin-top: 10px;
+    border: none;
+    border-radius: 5px;
+    padding: 10px;
+}
+.btn-remove{
+    background-color:red;
+    font-weight: bold;
+    color: white;
+    margin-top: 10px;
+    border: none;
+    border-radius: 5px;
+    padding: 10px;
 }

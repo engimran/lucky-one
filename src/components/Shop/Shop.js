@@ -32,7 +32,8 @@ const Shop = () => {
                     cart.map(item => <Order key={item.id} item={item}></Order>)
                 }
                 <div>
-                    <button>Selected your Mouse</button>
+                    <button className='btn-select'>Selected your Mouse</button>
+                    <button className='btn-remove'>Remove Item</button>
 
                 </div>
             </div>
