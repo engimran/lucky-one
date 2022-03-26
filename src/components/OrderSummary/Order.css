@@ -1,4 +1,8 @@
 .order img {
     width: 100px;
     height: 80px;
+   
+}
+.order{
+    display: flex;
 }

@@ -32,8 +32,8 @@ const Shop = () => {
                     cart.map(item => <Order key={item.id} item={item}></Order>)
                 }
                 <div>
-                    <button>test</button>
-                    <button>joei</button>
+                    <button>Selected your Mouse</button>
+
                 </div>
             </div>
         </div>

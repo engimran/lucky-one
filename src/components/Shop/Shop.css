@@ -10,6 +10,7 @@
 }
 .cart-container {
 margin-left: 20px;
-background-color: antiquewhite;
+border: 2px solid yellowgreen;
+border-radius: 10px;
 text-align: center;
 }
