@@ -10,6 +10,7 @@
 
 }
 .cart-container {
+height: 500px;
 margin-left: 20px;
 border: 2px solid yellowgreen;
 border-radius: 10px;
@@ -31,4 +32,15 @@ text-align: center;
     border: none;
     border-radius: 5px;
     padding: 10px;
+}
+
+@media only screen and (max-width:688px){
+    .products-container{
+        grid-template-columns: repeat(1,1fr);
+    }
+    
+    .shop-container{
+        grid-template-columns: repeat(1,1fr);
+    }
+    
 }
