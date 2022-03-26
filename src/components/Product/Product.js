@@ -13,9 +13,11 @@ const Product = ({ product, handleAddToCart }) => {
             <div className='btn-cart'>
                 <button className='btn-add-cart' onClick={() => handleAddToCart(product)}>Add to Cart <BsCart4 /></button>
             </div>
+
         </div>
 
     );
+
 };
 
 export default Product;
